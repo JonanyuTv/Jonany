@@ -1,0 +1,14 @@
+div{
+	background-color: deepskyblue;
+	height: 100px;
+	width: 100px;
+
+}
+h1{
+	color: #b16666;
+	background-color: #570b0b;
+	padding: 10px;
+	text-align: center;
+	font-family: cursive;
+	border: 5px solid red;
+}
